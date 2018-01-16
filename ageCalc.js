@@ -3,4 +3,4 @@ function ageCalcultor(name, yearOfBirth, currentYear) {
   return name + " is " + (currentYear - yearOfBirth) + " years old.";
 }
 
-console.log(ageCalcultor("Stewrat", 1993, 2017));
+console.log(ageCalcultor("Stewart", 1993, 2017));
